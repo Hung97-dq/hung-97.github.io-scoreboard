@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hung97-dq/csis3380/static/css/main.a0b44281.css",
+    "main.js": "/Hung97-dq/csis3380/static/js/main.5ea0b2a5.js",
+    "index.html": "/Hung97-dq/csis3380/index.html",
+    "main.a0b44281.css.map": "/Hung97-dq/csis3380/static/css/main.a0b44281.css.map",
+    "main.5ea0b2a5.js.map": "/Hung97-dq/csis3380/static/js/main.5ea0b2a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0b44281.css",
+    "static/js/main.5ea0b2a5.js"
+  ]
+}
